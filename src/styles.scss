@@ -1,0 +1,38 @@
+@import "~bootstrap/scss/functions";
+@import "~bootstrap/scss/variables";
+@import "~bootstrap/scss/mixins";
+
+
+/* $my-font-sizes: (
+  7: 0.5rem,
+);
+
+$font-sizes: map-merge($font-sizes, $my-font-sizes); */
+
+$font-sizes: (
+    1: $h1-font-size,
+    2: $h2-font-size,
+    3: $h3-font-size,
+    4: $h4-font-size,
+    5: $h5-font-size,
+    6: $h6-font-size,
+    18: 18px,
+    15: 15px,
+    13: 13px,
+    14: 14px,
+    12: 12px,
+    10: 10px,
+);
+
+$modal-lg: 930px;
+$input-border-color: $blue;
+$form-select-border-color: $input-border-color;
+
+@import "~bootstrap/scss/bootstrap";
+
+
+
+/* div {
+    border-style: solid;
+    border-width: 1px;
+} */

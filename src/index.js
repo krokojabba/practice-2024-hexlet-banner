@@ -1,0 +1,12 @@
+import  './styles.scss';
+import  'bootstrap';
+import './assets/revenue.svg';
+import './assets/arrow.svg';
+import './assets/arrows1.svg';
+import './assets/arrows2.svg';
+import './assets/background.png';
+import './assets/background1.png';
+import './assets/computer.svg';
+import './assets/notes.svg';
+import './assets/online-chat.svg';
+import './assets/school-bag.svg';
